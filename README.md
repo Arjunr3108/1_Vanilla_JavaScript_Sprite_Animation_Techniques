@@ -1,9 +1,9 @@
-Live Demo at "https://arjunr3108.github.io/1_Vanilla-JavaScript-sprite-animation-techniques/".
+1) Live Demo at "https://arjunr3108.github.io/1_Vanilla-JavaScript-sprite-animation-techniques/".
 
-This is a Demo of Sprite Animations.
+2) This is a demo of Sprite Animations.
 
-It uses the images from one single png file to animate it.
+3) It creates animation effects by rotating through images in a single file.
 
-You can choose which Animation you want in the Selection Option.
+4) You can choose which animation you want in the Selection Option.
 
-This website was done with the help of the tutorial from freecodecamp youtube channel's "JavaScript Game Development Course for Beginners".
+5) The FreeCodeCamp YouTube channel's "JavaScript Game Development Course for Beginners" helped me create this website.
