@@ -1,4 +1,4 @@
-1. Live Demo at "https://arjunr3108.github.io/1_Vanilla-JavaScript-sprite-animation-techniques/".
+1. Visit "https://arjunr3108.github.io/1_Vanilla-JavaScript-sprite-animation-techniques" to view the live demo.
 
 2. This is a demo of Sprite Animations.
 
